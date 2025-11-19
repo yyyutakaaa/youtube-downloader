@@ -21,7 +21,7 @@ A powerful Python script to download YouTube videos in the highest quality MP4 f
 ### Step 1: Clone or download this project
 ```bash
 cd ~/Documents/GitHub
-git clone [your-repo-url] # or download files manually
+git clone https://github.com/yyyutakaaa/youtube-downloader.git # or download files manually
 cd youtube-downloader
 ```
 
